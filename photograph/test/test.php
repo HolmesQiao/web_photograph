@@ -1,0 +1,6 @@
+<div id="box">
+	<div class="vertical">
+      Welcome to <strong>The Box!</strong>
+	</div>
+</div>
+
