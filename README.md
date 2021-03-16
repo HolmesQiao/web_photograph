@@ -30,5 +30,7 @@
 ---
 
 #### 相关设计
-![web_photograph DFD图](web_photograph DFD图.png)
+* 网站DFD图：
+![web_photograph DFD图](web_photograph_DFD图.png)
+* 网站系统模式图：
 ![web_photograph DFD图](web_photograph系统模式图.png)
