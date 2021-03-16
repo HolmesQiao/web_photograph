@@ -26,3 +26,9 @@
 
 * 无框架，纯HTML5、CSS、JavaScript、PHP、MySQL实现所有前后端功能；
 * PHPmailer，smtp协议发送验证邮件；
+
+---
+
+#### 相关设计
+![web_photograph DFD图](web_photograph DFD图.png)
+![web_photograph DFD图](web_photograph系统模式图.png)
