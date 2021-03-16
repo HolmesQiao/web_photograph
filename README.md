@@ -34,3 +34,4 @@
 ![web_photograph DFD图](web_photograph_DFD图.png)
 * 网站系统模式图：
 ![web_photograph DFD图](web_photograph系统模式图.png)
+* 与数据库相关部分的设计不予显示
