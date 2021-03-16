@@ -1,4 +1,4 @@
-### <img src="http://118.24.109.65/photo_db/233_Markdown_IMG_kkyou.png" style="width:15%">相册社区
+### <img src="http://118.24.109.65/photo_db/233_Markdown_IMG_kkyou.png" style="width:15">相册社区
 
 ---
 
